@@ -1,0 +1,81 @@
+==================================================================
+https://keybase.io/chrishaslam
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://chrishaslam.co.uk
+  * I am chrishaslam (https://keybase.io/chrishaslam) on keybase.
+  * I have a public key with fingerprint 996C 1CA3 5D1D 5FC2 D367  2F1F B3A3 2CA5 E7C5 6BB6
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0101d02899dde0a6b54495022d6d16db1a32f1c875757d906d4339ab9d732810c9280a",
+      "fingerprint": "996c1ca35d1d5fc2d3672f1fb3a32ca5e7c56bb6",
+      "host": "keybase.io",
+      "key_id": "b3a32ca5e7c56bb6",
+      "kid": "0101d02899dde0a6b54495022d6d16db1a32f1c875757d906d4339ab9d732810c9280a",
+      "uid": "80cd32bfb3ccb25cf7286013a2f4d719",
+      "username": "chrishaslam"
+    },
+    "merkle_root": {
+      "ctime": 1550335096,
+      "hash_meta": "826948210d4649e276262a681b005ae17c999798f2f217c54180dfe0b721261f",
+      "seqno": 4776468
+    },
+    "revoke": {
+      "sig_ids": [
+        "7fb862085674a498f7443080092d68c387904f5186b529f0db4b3216c1ce09520f"
+      ]
+    },
+    "service": {
+      "hostname": "chrishaslam.co.uk",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1550335138,
+  "expire_in": 157680000,
+  "prev": "7b3e4cfcd2969049648dcd4e3b044dd0d10a0a17f60741a4148926e9567f1cbb",
+  "seqno": 3,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.80
+Comment: https://keybase.io/crypto
+
+yMK2AnicrZNbaB1FHMZPbGJN8FJvhYqhdYNWbTyZmZ3rSY1B02Krqah9sUk8zG1z
+1nOye7q7JzHUA5qCUJUDgqJWoZqieAPBClowWI9WaUWtD3kxVFpEoReQgkUfBJ0N
+iog+yjwMs/v9v/83v5n59JIVhZ6OwR9Suf7wl6s6vmg3G4Xxysb5XZ6KzaxX2uVV
+7fJka8amWbkaGq/kAQigAYgLYYwFkiqCsSAAIUMNpEZB6aMAas6IG0YAarDvC6mE
+YT7iEGiBOJBevxeE0aRN6kkYZc5WCKqhlj4x0JBAI+NT5nwC5Ts/LYllmlClqCus
+xGle4cIpmdpiGLtvblFejvcf+v85d2PZjgNtfKRcPq0VIjpgiFMAfYkCbBgUuTC1
+SSSnrFPrShKmFZnW5JTX7PembFKt2XISx1nOV2dhroKEAN8nQFC3R5lWylM2k3kr
+RAXmCAKDKRYWMYookpRDBQCRFjIthGCCByhAbkEw5MAEFiiGIKIwcFFSuzOKvRJm
+jGLKXYLETsdVmzdPw0lHLvVKYx4LFKcIcEIZltgZMox9wAEQDhLXPmcC4IBA7uAh
+EQCjsPIRzA/OAkEQCLyJZt4smQ71snl+VP9GUNRxsVF1sepJnMU6rrnflSyrp6Uc
+TjZbz/UzVpX/dCqrMDLutriKaZukYRw5WE75T27Q5/2efbgeJrYc5grCqMsOQN7H
+TjtLpnyLdaANEtTtRFDMjTbY+gpgbAwwEEggIQsoYBhKDDEXiFrheLibodTfIH0X
+U046S0cvklkjsV6zfWi8s9DRU7iw64L8FRV6ulf99bb277yoMP/VQ9HsOD148Zvf
+3j83tDnqGvnx+ct6xsQnjy8NenvX9L7wy46rn/zgXfLG7vblDz4ysFTf8/JLxaOt
+e08220/bkStfXL/49rb24spn6VtP/bb67h0PHBiqf/brO8OFxxbSwd3nrrhV3PLK
+76e2nhvd9H13b/fYkc3RtXT1c4e90/cdWniv77X3Vw5dWtJn+/bdocw1S/XPj81f
+n7XiiZuL1609Pnf2zPbWbee3s8WfFuU97f7Rub4Np3s3XrXP23p0W+czXQPrTo6u
+WNe55viGIzU68vGraG0jPvX6+ZmB4Ts3NSaO3TUy800raJxBAyeKE1tuvGlYPqHl
+h7d/9OgNB7/bc6Dz5+F268TXC+YP3B5z0w==
+=nhf5
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/chrishaslam
+
+==================================================================
