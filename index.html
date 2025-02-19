@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <script async="" src="./files/js"></script>
+    
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Chris Haslam - Open Source and digital consultant Cheshire</title>
+    <link rel="stylesheet" type="text/css" media="screen" href="./files/style.css">
+  </head>
+  <body>
+    <div id="terminal">
+      <a id="before"></a>
+    </div>
+    <div id="command" onclick="$(&#39;texter&#39;).focus();">
+      <textarea type="text" id="texter" onkeyup="typeIt(this, event)" onkeydown="typeIt(this, event); 
+                   moveIt(this.value.length, event)" onkeypress="typeIt(this, event);" autofocus=""></textarea>
+      <div id="liner">
+        <span id="typer"></span><b class="cursor" id="cursor" style="left: 0px;">█</b>
+      </div>
+    </div>
+    <script src="./files/caret.js"></script>
+    <script src="./files/commands.js"></script>
+    <script src="./files/main.js"></script>
+  
+
+</body></html>
